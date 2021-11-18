@@ -5,7 +5,5 @@ y <- nrorm(1000)
 
 # important features
 
-
-
-# crazy idea
+# an alternative 
 # add new feature - adding something here
